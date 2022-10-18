@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="eng" dir="ltr">
+
+<md lang="eng" dir="ltr">
 
 <head>
   <meta charset="utf-8">
@@ -93,4 +93,4 @@
     <a href="contact.html"><h3>Contact me</h3></a>
 </body>
 
-</html>
+</md>
