@@ -90,7 +90,7 @@
       <a href="http://surewehaveablog.blogspot.com/2016/08/favoritos-de-julho-yumi.html?m=1"><li>Write about anything and everything.</li></a>
     </ol>
     <!-- <ol> Stand for Ordered List, so it is numbered, and must open and close-->
-    <a href="contact.md"><h3>Contact me</h3></a>
+    <a href="contact.html"><h3>Contact me</h3></a>
 </body>
 
 </html>
