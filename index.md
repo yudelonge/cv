@@ -9,7 +9,7 @@
 <body>
   <table cellspacing="20">
     <tr>
-      <td><img src="yumi 2.png/image" alt="Yumi profile image" width="250
+      <td><img src="yumi 2.png" alt="Yumi profile image" width="250
       "height="250"></td>
       <td><h1>Yumi Kuga</h1>
       <p><em>Developer student</em>
