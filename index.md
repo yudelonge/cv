@@ -9,7 +9,7 @@
 <body>
   <table cellspacing="20">
     <tr>
-      <td><img src="yumi 2.png" alt="Yumi profile image" width="250
+      <td><img src="yumi 2.png/image" alt="Yumi profile image" width="250
       "height="250"></td>
       <td><h1>Yumi Kuga</h1>
       <p><em>Developer student</em>
@@ -90,6 +90,6 @@
       <a href="http://surewehaveablog.blogspot.com/2016/08/favoritos-de-julho-yumi.html?m=1"><li>Write about anything and everything.</li></a>
     </ol>
     <!-- <ol> Stand for Ordered List, so it is numbered, and must open and close-->
-    <a href="contact"><h3>Contact me</h3></a>
+    <a href="contact.md"><h3>Contact me</h3></a>
 </body>
 </md>
